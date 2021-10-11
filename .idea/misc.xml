@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/rahma/AndroidStudioProjects/KalkulatorBidangDatar/app/src/main/res/layout/activity_hitung_keliling.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/rahma/AndroidStudioProjects/KalkulatorBidangDatar/app/src/main/res/layout/activity_hitung_luas.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/rahma/AndroidStudioProjects/KalkulatorBidangDatar/app/src/main/res/layout/activity_keliling_lingkaran.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/rahma/AndroidStudioProjects/KalkulatorBidangDatar/app/src/main/res/layout/activity_keliling_persegi.xml" value="0.264" />
+        <entry key="..\:/Users/rahma/AndroidStudioProjects/KalkulatorBidangDatar/app/src/main/res/layout/activity_keliling_segitiga.xml" value="0.264" />
+        <entry key="..\:/Users/rahma/AndroidStudioProjects/KalkulatorBidangDatar/app/src/main/res/layout/activity_luas_lingkaran.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/rahma/AndroidStudioProjects/KalkulatorBidangDatar/app/src/main/res/layout/activity_luas_persegi.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/rahma/AndroidStudioProjects/KalkulatorBidangDatar/app/src/main/res/layout/activity_luas_segitiga.xml" value="0.264" />
+        <entry key="..\:/Users/rahma/AndroidStudioProjects/KalkulatorBidangDatar/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
